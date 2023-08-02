@@ -1,1 +1,1 @@
-# A_MLOps_Practives
+# A_MLOps_Practices
